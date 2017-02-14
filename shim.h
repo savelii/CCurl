@@ -2,6 +2,7 @@
 #define CCURL_SHIM_H
 
 #import <curl/curl.h>
+#include <stdint.h>
 
 typedef size_t (*write_callback_t)(char *ptr, size_t size, size_t nmemb, void *userdata);
 
