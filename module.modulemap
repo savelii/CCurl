@@ -1,4 +1,4 @@
-module CCurl [system] {
+module CCurlv4 [system] {
   header "shim.h"
   link "curl"
   export *
