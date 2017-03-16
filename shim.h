@@ -1,5 +1,5 @@
-#ifndef CCURL_SHIM_H
-#define CCURL_SHIM_H
+#ifndef CCURL_SHIM_HRT
+#define CCURL_SHIM_HRT
 
 #import <curl/curl.h>
 #include <stdint.h>
